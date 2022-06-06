@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "141061990606",
+    "project_id": "smartparking-fec0c",
+    "storage_bucket": "smartparking-fec0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141061990606:android:645cc3f26484b17f6f089f",
+        "android_client_info": {
+          "package_name": "com.example.smartparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141061990606-pqfv08s1rfvgg3kvuejo94p2eo32pk1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartparking",
+            "certificate_hash": "fa99f38c41a0b0ad739c4c37411aabed7382fe21"
+          }
+        },
+        {
+          "client_id": "141061990606-s1hhchgmja7mbgm4berc22926d8kg12s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvA-OarknOL4Zi0Sf9nBPj_YknW5Nl-W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141061990606-s1hhchgmja7mbgm4berc22926d8kg12s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
